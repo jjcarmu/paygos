@@ -1,2 +1,2 @@
-# paygos
-Prueba Tecnica de la empresa payGo
+# TSI
+Prueba GIT
